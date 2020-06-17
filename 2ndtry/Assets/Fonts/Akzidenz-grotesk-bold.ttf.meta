@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: fdd28e71a9047bc42b9747993152bc19
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AkzidenzGrotesk
+  fontNames:
+  - AkzidenzGrotesk
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3d2200004b0ff6545a6ec3396a5ba824, type: 3}
+  - {fileID: 12800000, guid: 823e85c1face6604abad4325170a9892, type: 3}
+  - {fileID: 12800000, guid: 7578071c67fdef64298ed17d7fbbaa26, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

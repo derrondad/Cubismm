@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 29c380fdcb5b32d4b9a9ed508465294f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Berthold Akzidenz Grotesk BE
+  fontNames:
+  - Berthold Akzidenz Grotesk BE
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d6579974de0487e4a8f3ee35881596e2, type: 3}
+  - {fileID: 12800000, guid: 9897f4bbe594cf046911729389f0402f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
